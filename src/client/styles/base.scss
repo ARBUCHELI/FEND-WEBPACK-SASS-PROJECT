@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: #d9ad7c;
 }
 
 main {
@@ -11,4 +12,13 @@ main {
 section {
     max-width: 800px;
     margin: 50px auto;
+    color: white;
 }
+
+#formres {
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2em;
+}
+
+
